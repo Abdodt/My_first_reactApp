@@ -1,0 +1,36 @@
+
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 33px;
+    color: beige;
+    border-block-color: dashed blue;
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+.btn{
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  cursor:pointer;
+  padding: 7px 10px;
+  border:1px;
+  border-color: black;
+  margin-bottom: 6px;
+  margin-left: 5px;
+}
+
+.btn:hover{
+  color: #555;
+  border-color: black;
+  border: 1px;
+  background:#fff;
+}
